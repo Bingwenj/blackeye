@@ -1,7 +1,7 @@
 #!/bin/bash
 
 open_page() {
-    url="https://github.com/EricksonAtHome/bes"
+    url="https://github.com/Bingwenj/bes"
      open "$url"
 }
 
